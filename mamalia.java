@@ -1,0 +1,3 @@
+class mamalia extends binatang {
+
+}
